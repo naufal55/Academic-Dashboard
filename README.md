@@ -1,2 +1,2 @@
-# Academic-Dashboard
-Rancangan Dashboard akademik Kampus
+# Dashboar HDD Diagnoser
+Rancangan Dashboard HDD Diagnoser
